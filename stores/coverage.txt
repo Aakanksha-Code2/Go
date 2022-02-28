@@ -1,0 +1,14 @@
+mode: set
+github.com/aakanksha/Crud/stores/crud.go:16.28,20.2 1 1
+github.com/aakanksha/Crud/stores/crud.go:21.57,23.16 2 1
+github.com/aakanksha/Crud/stores/crud.go:26.2,30.16 2 1
+github.com/aakanksha/Crud/stores/crud.go:23.16,25.3 1 1
+github.com/aakanksha/Crud/stores/crud.go:33.56,36.16 2 1
+github.com/aakanksha/Crud/stores/crud.go:39.2,39.12 1 1
+github.com/aakanksha/Crud/stores/crud.go:36.16,38.3 1 1
+github.com/aakanksha/Crud/stores/crud.go:42.46,44.16 2 1
+github.com/aakanksha/Crud/stores/crud.go:47.2,51.12 2 1
+github.com/aakanksha/Crud/stores/crud.go:44.16,46.3 1 1
+github.com/aakanksha/Crud/stores/crud.go:54.67,60.16 4 1
+github.com/aakanksha/Crud/stores/crud.go:63.2,63.17 1 1
+github.com/aakanksha/Crud/stores/crud.go:60.16,62.3 1 1
